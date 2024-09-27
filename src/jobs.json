@@ -85,31 +85,32 @@
       }
     },
     {
-      "id": "6d5e",
-      "title": "nasvdhavsdjh",
+      "title": "Software Engineer in Test",
       "type": "Remote",
-      "location": "ashdahv",
-      "description": "sdvhandsvj",
+      "location": "Surabaya",
+      "description": "Do automation testing",
       "salary": "$60K - $70K",
       "company": {
-        "description": "dhvajvsd",
-        "contactEmail": "jagadpurnomo26@gmail.com",
+        "name": "Wijaya Inc.",
+        "description": "Digital service & consultant",
+        "contactEmail": "jagad@mail.com",
         "contactPhone": "082244348957"
-      }
+      },
+      "id": "6d5e"
     },
     {
-      "id": "4829",
       "title": "QA",
       "type": "Remote",
-      "location": "Sby",
-      "description": "askbdasdbahsdb",
-      "salary": "$70K - $80K",
+      "location": "Jakarta",
+      "description": "Do manual testing",
+      "salary": "$60K - $70K",
       "company": {
         "name": "Jagad Inc.",
-        "description": "sajdbaksdb",
-        "contactEmail": "jagadpurnomo26@gmail.com",
-        "contactPhone": "082244348957"
-      }
+        "description": "Software Development Service",
+        "contactEmail": "jwp@jg.inc",
+        "contactPhone": "082244348111"
+      },
+      "id": "4829"
     }
   ]
 }
