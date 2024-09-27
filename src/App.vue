@@ -1,13 +1,9 @@
 <script setup>
 import NavBar from '@/components/NavBar.vue'
-import Hero from '@/components/Hero.vue'
-import HomeCard from '@/components/HomeCard.vue'
-import JobListings from '@/components/JobListings.vue'
+import { RouterView } from 'vue-router';
 </script>
 
 <template>
   <NavBar />
-  <Hero />
-  <HomeCard />
-  <JobListings :show-button="true"/>
+  <RouterView />
 </template>
