@@ -10,7 +10,6 @@ import axios from 'axios'
 defineProps({
   limit: {
     type: Number,
-    default: 5,
   },
   showButton: {
     type: Boolean,
